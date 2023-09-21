@@ -71,6 +71,7 @@ def title(request, subject):
     })
 
 def new(request):
+    #comment test
     if request.method == "POST":
         new_form = CreateEntry(request.POST)
         if new_form.is_valid():
