@@ -20,8 +20,8 @@
 
 ###
 <div align="center">
-   <a href="https://twitter.com/antonypauson" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-</div>
+<!--    <a href="https://linkedin.com/antonypauson" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/></a>
+</div> -->
 
 <!---
 antonypauson/antonypauson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
