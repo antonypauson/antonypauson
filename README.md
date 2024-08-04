@@ -1,4 +1,4 @@
-<h1 align="center" >This is Antony SUN </h1>
+<h1 align="center" >Hey, this is antony SUN  </h1>
 
 ###
 
@@ -13,12 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=antonypauson" height="150" alt="languages graph"  />
 </div>
 
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/antonypauson/count.svg?"  />
-</div>
 
-###
 <div align="center">
   <a href="https://www.linkedin.com/in/antonypauson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
@@ -28,8 +23,9 @@
 <div align="center">
   <a href="https://www.hackerrank.com/profile/antonysun13"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </div>
-
-
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonypauson">
+</div>
 
 <!---
 antonypauson/antonypauson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
