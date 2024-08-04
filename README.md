@@ -20,8 +20,16 @@
 
 ###
 <div align="center">
-<!--    <a href="https://linkedin.com/antonypauson" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/></a>
-</div> -->
+  <a href="https://www.linkedin.com/in/antonypauson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+<div align="center">
+  <a href="https://leetcode.com/u/antonypauson/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+</div>
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/antonysun13"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+</div>
+
+
 
 <!---
 antonypauson/antonypauson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
