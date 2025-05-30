@@ -5,7 +5,6 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="250" height="250" />
 </div>
-https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/lottie.json
 
 
 ###
