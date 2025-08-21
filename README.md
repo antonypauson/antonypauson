@@ -21,9 +21,6 @@
 <div align="center">
   <a href="https://discord.com/channels/@me/heliostone/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
-<div align="center">
-  <a href="https://leetcode.com/u/antonypauson/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-</div>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonypauson&theme=vue">
