@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats-ebon-one-23.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ambient_gradient&hide_border=true&username=antonypauson" height="150" alt="languages graph" />
   <img src="https://github-readme-stats-ebon-one-23.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=true&username=antonypauson" height="150" alt="stats graph"/>
   
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antonypauson&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" fire="red" height="150" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-taupe-six.vercel.app?user=antonypauson&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" fire="red" height="150" /></a>
 </div>
 
 
