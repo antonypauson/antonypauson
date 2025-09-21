@@ -18,6 +18,9 @@
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-taupe-six.vercel.app?user=antonypauson&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" fire="red" height="150" /></a>
 </div>
 
+<div align="center">
+ <img src="https://reading-stats.onrender.com/api/badge/main" />
+</div>
 
 
 <div align="center">
