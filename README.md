@@ -19,11 +19,6 @@
 </div>
 
 <div align="center">
- <img src="https://reading-stats.onrender.com/api/badge/main" />
-</div>
-
-
-<div align="center">
   <a href="https://discord.com/channels/@me/heliostone/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
